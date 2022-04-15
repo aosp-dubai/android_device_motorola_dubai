@@ -152,6 +152,9 @@ persist.vendor.qcom.bluetooth.twsp_state.enabled=false
 ro.bluetooth.a2dp_offload.supported=true
 vendor.qcom.bluetooth.soc=moselle
 
+# Bluetooth
+bluetooth.device.default_name=Motorola Edge 30
+
 # Camera
 camera.disable_zsl_mode=1
 persist.vendor.camera.physical.num=4
