@@ -379,7 +379,8 @@ PRODUCT_PACKAGES += \
 
 # Power
 PRODUCT_PACKAGES += \
-    android.hardware.power-service.moto-libperfmgr
+    android.hardware.power-service.moto-libperfmgr \
+    libqti-perfd-client
 
 # QMI
 PRODUCT_PACKAGES += \
