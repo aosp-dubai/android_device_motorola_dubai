@@ -152,6 +152,7 @@ dalvik.vm.heapminfree=8m
 dalvik.vm.heapsize=512m
 dalvik.vm.heapstartsize=16m
 dalvik.vm.heaptargetutilization=0.5
+dalvik.vm.systemuicompilerfilter=speed
 
 # Display
 vendor.display.comp_mask=0
