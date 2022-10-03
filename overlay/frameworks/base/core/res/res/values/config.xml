@@ -242,7 +242,6 @@
     <bool name="config_dozeAfterScreenOff">true</bool>
     <!-- Screen brightness when dozing. -->
     <integer name="config_screenBrightnessDoze">17</integer>
-    <bool name="config_setColorTransformAccelerated">true</bool>
 
     <!-- Boolean indicating if current platform supports HFP inband ringing -->
     <bool name="config_bluetooth_hfp_inband_ringing_support">true</bool>
