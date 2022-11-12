@@ -33,7 +33,7 @@ PRODUCT_MODEL := motorola edge 30
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    TARGET_PRODUCT=dubai_retail \
-    PRIVATE_BUILD_DESC="dubai_g-user 12 S1RDS32M.55-67-4 bd528d release-keys"
+    TARGET_PRODUCT=dubai_g \
+    PRIVATE_BUILD_DESC="dubai_g-user 12 S1RD32M.55-94 9be6b release-keys"
 
-BUILD_FINGERPRINT := motorola/dubai_g/dubai:12/S1RDS32M.55-67-4/bd528d:user/release-keys
+BUILD_FINGERPRINT := motorola/dubai_g/dubai:12/S1RD32M.55-94/9be6b:user/release-keys

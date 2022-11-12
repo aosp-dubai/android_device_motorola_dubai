@@ -212,7 +212,7 @@ ENABLE_VENDOR_RIL_SERVICE := true
 TARGET_SCREEN_DENSITY := 400
 
 # Security
-VENDOR_SECURITY_PATCH := 2022-09-05
+VENDOR_SECURITY_PATCH := 2022-10-01
 
 # SELinux
 include device/qcom/sepolicy_vndr-legacy-um/SEPolicy.mk
