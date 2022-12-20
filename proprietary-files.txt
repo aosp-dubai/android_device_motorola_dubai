@@ -1399,7 +1399,7 @@ vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so
 vendor/lib64/vendor.qti.imsrtpservice@3.0.so
 
 # Radio - IMS (APK) - from patched source
--system_ext/priv-app/ims/ims.apk|2acd9c03e739c899ee8997d6634c6c1b3e2bc2cb
+-system_ext/priv-app/ims/ims.apk|43c0fe3ca84d702d37b2958c6e1ab399e2e4ba52
 
 # Ril - IMS (APK)
 etc/permissions/moto-telephony.xml:system_ext/etc/permissions/moto-telephony.xml
