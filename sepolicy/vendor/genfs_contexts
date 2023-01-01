@@ -14,6 +14,8 @@ genfscon proc /hw                                                               
 genfscon sysfs /devices/virtual/input                                           u:object_r:vendor_sysfs_sensors:s0
 genfscon sysfs /devices/platform/soc/a94000.spi/spi_master/spi0/spi0.0/touchscreen/primary/double_tap_pressed u:object_r:vendor_sysfs_sensors:s0
 genfscon sysfs /devices/platform/soc/a94000.spi/spi_master/spi0/spi0.0/touchscreen/primary/double_tap_enabled u:object_r:vendor_sysfs_sensors:s0
+genfscon sysfs /devices/platform/soc/a94000.spi/spi_master/spi0/spi0.0/touchscreen/primary/udfps_pressed      u:object_r:vendor_sysfs_sensors:s0
+genfscon sysfs /devices/platform/soc/a94000.spi/spi_master/spi0/spi0.0/touchscreen/primary/udfps_enabled      u:object_r:vendor_sysfs_sensors:s0
 
 # SKU version
 genfscon sysfs /devices/platform/soc/aa00000.qcom,vidc/sku_version                         u:object_r:vendor_sysfs_sku:s0
