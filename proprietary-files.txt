@@ -1545,7 +1545,6 @@ vendor/etc/init/init_thermal-engine.rc
 -vendor/app/TimeService/TimeService.apk
 vendor/bin/time_daemon
 vendor/etc/init/init.time_daemon.rc
-vendor/etc/thermal-engine-dubai.conf
 vendor/etc/thermal-engine.conf
 vendor/lib64/libtime_genoff.so
 
